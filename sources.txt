@@ -1,0 +1,5 @@
+Sources and useful links:
+- Official biography (English): https://english.khamenei.ir/
+- Wikimedia Commons portraits: https://commons.wikimedia.org
+- Vazirmatn (Vazir) font: https://github.com/rastikerdar/vazirmatn/releases
+- Wikipedia: https://en.wikipedia.org/wiki/Ali_Khamenei
